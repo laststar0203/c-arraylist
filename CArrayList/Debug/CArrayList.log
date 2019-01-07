@@ -1,3 +1,6 @@
-﻿  main.cpp
-c:\users\windows10-00\source\repos\carraylist\carraylist\main.cpp(11): error C3861: 's': 식별자를 찾을 수 없습니다.
-c:\users\windows10-00\source\repos\carraylist\carraylist\main.cpp(12): error C3861: 's': 식별자를 찾을 수 없습니다.
+﻿  main.c
+c:\users\windows10-00\source\repos\carraylist\carraylist\arraylist.h(31): warning C4031: 둘째 정식 매개 변수 목록이 첫째 목록보다 깁니다.
+c:\users\windows10-00\source\repos\carraylist\carraylist\arraylist.h(31): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+c:\users\windows10-00\source\repos\carraylist\carraylist\arraylist.h(31): error C2371: 'remove': 재정의. 기본 형식이 다릅니다.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(364): note: 'remove' 선언을 참조하십시오.
+c:\users\windows10-00\source\repos\carraylist\carraylist\arraylist.h(184): error C2491: 'remove': dllimport 함수을(를) 정의할 수 없습니다.
