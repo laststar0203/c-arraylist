@@ -1,6 +1,3 @@
 ﻿  main.c
-c:\users\windows10-00\source\repos\carraylist\carraylist\arraylist.h(31): warning C4031: 둘째 정식 매개 변수 목록이 첫째 목록보다 깁니다.
-c:\users\windows10-00\source\repos\carraylist\carraylist\arraylist.h(31): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
-c:\users\windows10-00\source\repos\carraylist\carraylist\arraylist.h(31): error C2371: 'remove': 재정의. 기본 형식이 다릅니다.
-  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(364): note: 'remove' 선언을 참조하십시오.
-c:\users\windows10-00\source\repos\carraylist\carraylist\arraylist.h(184): error C2491: 'remove': dllimport 함수을(를) 정의할 수 없습니다.
+c:\users\windows10-00\source\repos\carraylist\carraylist\main.c(28): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'void *'입니다.
+  CArrayList.vcxproj -> C:\Users\Windows10-00\source\repos\CArrayList\Debug\CArrayList.exe
